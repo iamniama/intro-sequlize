@@ -1,0 +1,2 @@
+# intro-sequlize
+sequelize practice
